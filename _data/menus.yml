@@ -1,16 +1,13 @@
 - title: home
   url: /
   external: false
-
 - title: archive
   url: /archive/
   external: false
-
 - title: about
   url: /about/
-  external: false # set true if you using external link, see below
-
-# Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true
+  external: false
+- title: lorem-ipsum
+  url: lorem-ipsum
+  external: false
+  type: menu_item
