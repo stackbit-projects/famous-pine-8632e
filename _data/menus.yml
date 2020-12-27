@@ -7,7 +7,3 @@
 - title: about
   url: /about/
   external: false
-- title: lorem-ipsum
-  url: lorem-ipsum
-  external: false
-  type: menu_item
